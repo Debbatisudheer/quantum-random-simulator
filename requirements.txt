@@ -1,0 +1,9 @@
+qiskit
+matplotlib
+streamlit
+numpy
+streamlit
+qiskit==1.2.4
+matplotlib
+numpy
+pylatexenc

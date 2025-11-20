@@ -1,0 +1,6 @@
+streamlit
+qiskit
+qiskit-ibm-runtime
+matplotlib
+pylatexenc
+numpy
